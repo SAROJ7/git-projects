@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 welcome to saroj repo 2.modified for the age
-=======
-welcome to saroj repo 23.huahahah.
->>>>>>> firstbranch
